@@ -2,6 +2,16 @@
 
 Most dating apps and "reply generators" hand you a line. **Love Guru teaches you the skill**: what to talk about, what to avoid, how to read signals, how to calm nerves, with short lessons, practice and honest feedback from a coach you choose. Built for everyone 18+: any gender, any orientation, any age.
 
+![Love Guru landing page](docs/screenshots/landing.jpg)
+
+## Screenshots
+
+| Choose your coach | Your dashboard |
+|---|---|
+| ![Choosing a coach during onboarding](docs/screenshots/onboarding-coach.jpg) | ![Dashboard with next lesson, progress and learning path](docs/screenshots/home.jpg) |
+| **Coach chat** | **Tools** |
+| ![Chatting with coach Sunny](docs/screenshots/coach-chat.jpg) | ![Reply helper, chat decoder, practice chats and profile polish](docs/screenshots/tools.jpg) |
+
 ## What's inside
 
 | Area | What it does |
